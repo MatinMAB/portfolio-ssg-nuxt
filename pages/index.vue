@@ -12,7 +12,6 @@
             </div>
             <div class="flex justify-center items-center gap-3">
               <InstagramSvg class="w-8 text-purple-500 cursor-pointer" />
-              <GithubSvg class="w-8 text-black-500 cursor-pointer" />
               <TelegramSvg class="w-8 text-blue-500 cursor-pointer" />
               <WhatsappSvg class="w-8 text-green-500 cursor-pointer" />
             </div>
@@ -37,9 +36,13 @@
           <JavascriptSvg class="w-20 text-green-400 cursor-pointer" />
           <JquerySvg class="w-20 text-green-400 cursor-pointer" />
           <SassSvg class="w-20 text-pink-500 cursor-pointer" />
+        </div>
+        <div class="flex justify-between items-center p-8 gap-2">
           <BootstrapSvg class="w-20 text-purple-500 cursor-pointer" />
           <TailwindSvg class="w-20 text-blue-400 cursor-pointer" />
           <BulmaSvg class="w-20 text-green-400 cursor-pointer" />
+          <GithubSvg class="w-20 text-gray-800 cursor-pointer" />
+          <GitSvg class="w-20 text-black cursor-pointer" />
         </div>
         <h1
           class="text-2xl border-b-2 border-green-500 pb-2 mx-8 text-green-500 mt-8"
@@ -285,7 +288,9 @@
         </div>
       </div>
     </div>
-    <div class="text-center bg-gray-100 h-20 flex flex-col justify-center items-center gap-2">
+    <div
+      class="text-center bg-gray-100 h-20 flex flex-col justify-center items-center gap-2"
+    >
       <h2>طراحی شده توسط <span class="text-blue-500">Matin_MAB</span></h2>
       <h2>2021 - 1400</h2>
     </div>
