@@ -131,7 +131,32 @@
 
         <div
           class="bg-gray-50 border-2 border-gray-400 p-2 rounded-xl shadow-md hover:shadow-xl transition-all"
-        ></div>
+        >
+<img src="../assets/portfolio.png" class="rounded-xl" />
+          <p class="text-center my-4 text-lg">سایت مهارت ها و نمونه کارهای من</p>
+          <p class="text-center my-4 text-md">
+            <span class="text-green-500">Vue - Nuxt (SSG App)</span>
+          </p>
+          <p class="text-center my-4 text-md text-gray-500">
+            برای مشاهده سایت
+            <a
+              href="https://matinmab-portfolio.netlify.app/"
+              target="_blank"
+              class="text-blue-400"
+              >اینجا</a
+            >
+            کلیک کنید
+          </p>
+          <p class="text-center my-4 text-md text-gray-500">
+            مشاهده کدهای نوشته شده در
+            <a
+              href="https://github.com/MatinMAB/portfolio-ssg-nuxt"
+              target="_blank"
+              class="text-gray-400"
+              >گیت هاب</a
+            >
+          </p>
+        </div>
         <div
           class="bg-gray-50 border-2 border-gray-400 p-2 rounded-xl shadow-md hover:shadow-xl transition-all"
         >
